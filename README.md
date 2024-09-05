@@ -19,3 +19,4 @@
     <img alt="github stats" height="133px" src="https://github-profile-trophy.vercel.app/?username=hinanoaira&column=9" />
   </a>
 </p>
+https://misskey.hinasense.jp/@hinanoaira
