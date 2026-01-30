@@ -3,8 +3,8 @@
   <a href="https://hinasense.jp" target="_blank">
     <img src="https://img.shields.io/badge/Website-hinasense.jp-blue?style=for-the-badge&logo=home-assistant" alt="Website">
   </a>
-  <a href="https://misskey.hinasense.jp/@hinanoaira" target="_blank">
-    <img src="https://img.shields.io/badge/ActivityPub-hinanoaira@misskey.hinasense.jp-green?style=for-the-badge&logo=activitypub" alt="ActivityPub">
+  <a href="https://misskey.niri.la/@hinanoaira" target="_blank">
+    <img src="https://img.shields.io/badge/ActivityPub-@hinanoaira@misskey.niri.la-green?style=for-the-badge&logo=activitypub" alt="ActivityPub">
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/PGP-7FBE088453C8B50C-lightgrey?style=for-the-badge&logo=gnupg" alt="PGP Key">
